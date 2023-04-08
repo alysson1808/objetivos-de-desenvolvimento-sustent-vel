@@ -1,0 +1,12 @@
+img{
+    margin: 5px;
+    width: 150px;
+    border-radius: 5px;
+    border: 5px solid rgb(0, 0, 0)
+}
+body{
+    text-align: center;
+}
+P{
+    text-align: left;
+}
